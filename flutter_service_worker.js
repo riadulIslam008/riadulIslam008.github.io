@@ -6756,6 +6756,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "81fc30664404c305cc6dccea59916278
 "/": "9c313ea1124e637ea8b629ca5453e0fb",
 "main.dart.js": "f0283681476e9411204c4d1058b98f56",
 "manifest.json": "9489fd5631ba1e20b033acee24aa6a18",
+
 "version.json": "fb8d4678888024cd5f83d8522bb3a722"};
 // The application shell files that are downloaded before a service worker can
 // start.
@@ -6763,6 +6764,7 @@ const CORE = ["main.dart.js",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
+
 "assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
